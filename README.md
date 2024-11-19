@@ -10,10 +10,10 @@
 + Berikutnya kita buat file superclass untuk form input nama dan tanggal lahir
 + Seperti ini php code form input
 
-<img width="469" alt="Lab7 (2)" src="https://github.com/user-attachments/assets/a583b10d-5653-42d7-a890-752fdb109215">
+
 
 + Seperti ini tampilan form inputnya
 
-![Lab7 (3)](https://github.com/user-attachments/assets/e709e6cf-b970-475d-9fff-5e8d2c100f52)
+
 
 
